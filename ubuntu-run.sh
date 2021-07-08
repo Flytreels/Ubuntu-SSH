@@ -6,5 +6,4 @@ sudo snap remove lxd
 sudo snap remove core18
 sudo snap remove snapd
 sudo apt install fish git
-sudo swapoff /mnt/swapfile
-sudo rm -rf /mnt/*
+sudo mkdir /file/
